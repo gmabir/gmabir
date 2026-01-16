@@ -7,7 +7,6 @@
 
 ---
 
-### ⚡ Quick Bio
 * 🌱 **Currently Learning:** MERN Stack | Machine Learning | Cloud Deployment  
 * 💬 **Ask me about:** Web Development, Databases, or APIs  
 * ⚡ **Fun Fact:** I love exploring new tech & turning ideas into reality.  
@@ -38,24 +37,20 @@
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gmabir&theme=radical&no-frame=false&margin-w=5" alt="gmabir achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gmabir&theme=radical&no-bg=false&margin-w=5&v=1" alt="gmabir" />
 </p>
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmabir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="gmabir stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gmabir&theme=tokyonight" alt="gmabir streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmabir&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmabir&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="gmabir stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gmabir&theme=tokyonight&v=1" alt="gmabir streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmabir&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+</div>
 
 ---
 
